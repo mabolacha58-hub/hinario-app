@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hinario-app/static/css/main.b7b29e64.css",
+    "main.js": "/hinario-app/static/js/main.744ce639.js",
+    "index.html": "/hinario-app/index.html",
+    "main.b7b29e64.css.map": "/hinario-app/static/css/main.b7b29e64.css.map",
+    "main.744ce639.js.map": "/hinario-app/static/js/main.744ce639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b29e64.css",
+    "static/js/main.744ce639.js"
+  ]
+}
